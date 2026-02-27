@@ -1,6 +1,6 @@
 # product-warehouse-in-
 
-##The exercise template contains a class Warehouse, which has the following constructors and methods:
+## The exercise template contains a class Warehouse, which has the following constructors and methods:
 
 public Warehouse(double capacity) - Creates an empty warehouse, which has the capacity provided as a parameter; an invalid capacity (<=0) creates a useless warehouse, with the the capacity 0.
 public double getBalance() - Returns the balance of the warehouse, i.e. the capacity which is taken up by the items in the warehouse.
